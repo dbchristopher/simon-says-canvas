@@ -7,10 +7,13 @@
   "dependencies": {
     "babel-runtime": "^6.20.0",
     "classnames": "^2.2.5",
+    "createjs-easeljs": "^0.8.2",
+    "createjs-tweenjs": "^0.6.0",
     "eslint": "^4.8.0",
     "lodash": "^4.17.4",
     "meteor-node-stubs": "~0.2.4",
     "react": "^16.0.0",
+    "react-addons-pure-render-mixin": "^15.6.2",
     "react-dom": "^16.0.0",
     "react-router-dom": "^4.2.2"
   },
