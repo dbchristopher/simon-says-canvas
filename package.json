@@ -12,10 +12,12 @@
     "eslint": "^4.8.0",
     "lodash": "^4.17.4",
     "meteor-node-stubs": "~0.2.4",
+    "normalize.css": "^7.0.0",
     "react": "^16.0.0",
     "react-addons-pure-render-mixin": "^15.6.2",
     "react-dom": "^16.0.0",
-    "react-router-dom": "^4.2.2"
+    "react-router-dom": "^4.2.2",
+    "styled-components": "^2.2.1"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^15.1.0",

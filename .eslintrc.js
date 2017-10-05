@@ -7,6 +7,7 @@ module.exports = {
     "jsx-a11y/href-no-hash": 0,
     "label-has-for": 0,
     "react/jsx-boolean-value": 0,
-    "react/jsx-filename-extension": 0
+    "react/jsx-filename-extension": 0,
+    "no-underscore-dangle": 0
   }
 };
