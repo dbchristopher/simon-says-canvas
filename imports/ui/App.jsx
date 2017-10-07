@@ -10,7 +10,6 @@ class App extends Component {
     return (
       <div className="container">
         <TopNav />
-        Simon Says, Yo!!
         <Route exact path="/" component={SimonSays} />
         <Route exact path="/leaderboard" component={Leaderboard} />
       </div>

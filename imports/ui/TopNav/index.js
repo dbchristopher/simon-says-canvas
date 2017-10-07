@@ -4,6 +4,8 @@ import Link from './Link';
 
 const NavBar = styled.div`
   border-bottom: 1px solid #dddddd;
+  position: relative;
+  z-index: 1;
 `;
 
 export default function TopNav() {
